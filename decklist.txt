@@ -1,0 +1,80 @@
+1 _____ Goblin
+1 Abrade
+1 Ancient Tomb
+1 Anger of the Gods
+1 Beamtown Beatstick
+1 Blasphemous Act
+1 Blood Moon
+1 Brotherhood's End
+1 Chaos Warp
+1 Chrome Mox
+1 City of Traitors
+1 Command Beacon
+1 Commander's Plate
+1 Crystal Vein
+1 Cursed Totem
+1 Damping Sphere
+1 Deflecting Swat
+1 Delayed Blast Fireball
+1 Desperate Ritual
+1 Dream-Thief's Bandana
+1 Fury
+1 Gamble
+1 Geier Reach Sanitarium
+1 Gemstone Caverns
+1 Goblin Engineer
+1 Goblin Welder
+1 Goldvein Pick
+1 Grafdigger's Cage
+1 Grim Monolith
+1 Hammer of Nazahn
+1 Hammerheim
+1 Homeward Path
+1 Infiltration Lens
+1 Jeska, Thrice Reborn
+1 Jeska's Will
+1 Lightning Bolt
+1 Lost Jitte
+1 Lotus Petal
+1 Magus of the Moon
+1 Mana Vault
+1 Mask of Memory
+1 Mikokoro, Center of the Sea
+1 Mishra's Workshop
+1 Monstrous Rage
+1 Mox Diamond
+1 Mox Opal
+1 Pip-Boy 3000
+1 Planar Chaos
+1 Plaza of Heroes
+1 Professional Face-Breaker
+1 Prying Blade
+1 Pyretic Ritual
+1 Pyroblast
+1 Pyrokinesis
+1 Ragavan, Nimble Pilferer
+1 Red Elemental Blast
+1 Rending Volley
+1 Ricochet Trap
+1 Rite of Flame
+1 Rug of Smothering
+1 Seething Song
+1 Simian Spirit Guide
+1 Sol Ring
+1 Strength-Testing Hammer
+1 Sword of Fire and Ice
+1 Sword of Hearth and Home
+1 Tangle Wire
+1 The One Ring
+1 Tibalt's Trickery
+1 Torpor Orb
+1 Trinisphere
+1 Umezawa's Jitte
+1 Untimely Malfunction
+1 Urza's Saga
+1 Vexing Bauble
+1 Voyager Staff
+1 Weathered Runestone
+1 Welding Jar
+1 Wheel of Fortune
+1 Whispersilk Cloak

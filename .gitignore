@@ -1,0 +1,7 @@
+decklist/
+optcg/optcg_deresized_cards/
+optcg/optcg_resized_cards/
+resized_cards/frame_new/framed_cards/
+resized_cards/frame_old/
+__pycache__/
+psd_templates/
